@@ -1,6 +1,6 @@
-<h1> Olá, me chamo Karynne!</h1>
-<h2> Seja Bem vindo ao meu perfil no Github</h2>
-
+# Olá, me chamo Karynne!
+## Seja Bem vindo ao meu perfil no Github
+### 🌟 Desenvolvedora apaixonada por tecnologia e educação | Transformando ideias em aprendizado | 🚀 Explorando o mundo da programação | 📚 Compartilhando dicas
 
 **Aplicações**
 
